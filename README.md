@@ -6,5 +6,5 @@ You must have npm installed.
 You must have pip.
 ## How to run
 Run the run.bat file with admin priv.
-Go to the http://localhost: 
+Go to the http://localhost:3000
 
