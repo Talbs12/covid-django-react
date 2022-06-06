@@ -1,0 +1,18 @@
+Privius knowledge  - 
+my privius knowledge include frontend and backend coming from a web programming course I did in my third year of the degree,
+with slightly different technologies like node.js,java,javascript,html,css, etc..
+Resources that i used for learninig - 
+In this project requires me to expand my technological knowledge while relying on existing knowledge.
+I had to deal with technologies that were new to me like 
+* postgresql - for handling data base
+* react  - frontend
+* django and phyton - backend 
+I learned how to use these technologies by sites offered to me in a Google search for key queries for every technology that was new to me
+from syntax to whole snippets of code that perform actions I needed to make the project work.
+the sites that i used to implement the projacts - 
+* stack overflow  
+* bootstrap
+* seraching for "react metrial ui" in google for packages and code that i was nedded to import.
+* rest api sites
+* jetbrains
+* youtube
